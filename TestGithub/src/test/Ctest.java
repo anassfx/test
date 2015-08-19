@@ -7,5 +7,6 @@ public class Ctest {
 	private int test2;
 
 	private int age;
+	private String t9awd ;
 	
 }
